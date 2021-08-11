@@ -13,7 +13,7 @@ Levantar el proyecto (facultad)
 
 Descargar el repo
 
-Instalar modulos en el /website y en la /api mediante npm i
+Instalar modulos en el /website mediante npm i
 Para que funcione el sitio es necesario primero utilizar npm i en api
 
 Levantar API
